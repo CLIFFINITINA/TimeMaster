@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TimeMaster</string>
+    <string name="accessibility_des">打开右上角开关，在弹出的对话框中点击 `确认`。\n\n开启后，即可在微信，QQ等应用聊天页面中点击或长按文字聊天气泡，然后就会打开 Time Cat 页面。\n\n 此功能完全不需要root您的手机。只需您打开服务，弹窗提示您的授权时，点击确认便可。</string>
+    <string name="ui_divider">分词</string>
+    <string name="divide_action_copy">复制</string>
+    <string name="divide_action_all">全选</string>
+    <string name="divide_action_none">全不选</string>
+    <string name="divide_action_addtoplan">计划</string>
+    <string name="divide_action_addtolog">日志</string>
+</resources>
